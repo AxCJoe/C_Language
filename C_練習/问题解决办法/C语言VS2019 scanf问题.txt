@@ -1,0 +1,4 @@
+需要在文件第一行加入
+
+#define _CRT_SECURE_NO_WARNINGS 1
+
